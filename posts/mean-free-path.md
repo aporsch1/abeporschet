@@ -35,27 +35,27 @@ incredibly intimate, while also veering between a very wry sense of humor and a 
 falling, bullets whiz by "leav[ing] their luminous traces," music is overheard multiple times. Lerner fashions language, and life, as a hurricane he is trying to weather, and
 in whose eye Ari stands. 
 
->What if I made you hear this as music
->But not how you mean that. The slow beam
->Opened me up. Walls walked through me
->Like resonant waves. I thought that maybe
->If you aren’t too busy, we could spend our lives
->Parting in stations, promising to write
->War and Peace, this time with feeling
->As bullets leave their luminous traces across
->Wait, I wasn’t finished. I was going to say
->Breakwaters echo long lines of cloud
+>What if I made you hear this as music  
+>But not how you mean that. The slow beam  
+>Opened me up. Walls walked through me  
+>Like resonant waves. I thought that maybe  
+>If you aren’t too busy, we could spend our lives  
+>Parting in stations, promising to write  
+>War and Peace, this time with feeling  
+>As bullets leave their luminous traces across  
+>Wait, I wasn’t finished. I was going to say  
+>Breakwaters echo long lines of cloud  
 
 
->Renunciation scales. Exhibits shade
->Imperceptibly into gift shops. The death of a friend
->Opens me up. Suddenly the weather
->Is written by Tolstoy, whose hands were giant
->Resonant waves. It’s hard not to take
->When your eye is at the vertex of a cone
->Autumn personally. My past becomes
->Of lines extending to each leaf
->Citable in all its moments: parting, rain”
+>Renunciation scales. Exhibits shade  
+>Imperceptibly into gift shops. The death of a friend  
+>Opens me up. Suddenly the weather  
+>Is written by Tolstoy, whose hands were giant  
+>Resonant waves. It’s hard not to take  
+>When your eye is at the vertex of a cone  
+>Autumn personally. My past becomes  
+>Of lines extending to each leaf  
+>Citable in all its moments: parting, rain”  
 
 *Mean Free Path* sprawls out, allowing him to touch on the grief from a friend's suicide, fury with the American (henceforth Stateside(r) out of respect for the other American
 countries) military industrial complex. And Doppler Elegy, another poem whose formal constraints are derived from physics (And the only other poem in the collection), deals more

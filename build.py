@@ -200,7 +200,70 @@ class SiteGenerator:
             tag_dir.mkdir(exist_ok=True)
             with open(tag_dir / 'index.html', 'w', encoding='utf-8') as f:
                 f.write(html)
-    
+    def build_sitemap(self, posts):
+        """Generate sitemap.xml"""
+        config = self.load_config()
+        base_url = config.get('url', 'https://yoursite.vercel.app')
+        base_url = base_url.rstrip('/')
+        
+        sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n'
+        sitemap += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        
+        # Homepage
+        sitemap += '  <url>\n'
+        sitemap += f'    <loc>{base_url}/</loc>\n'
+        sitemap += f'    <lastmod>{datetime.now().strftime("%Y-%m-%d")}</lastmod>\n'
+        sitemap += '    <changefreq>weekly</changefreq>\n'
+        sitemap += '    <priority>1.0</priority>\n'
+        sitemap += '  </url>\n'
+        
+        # Posts
+        for post in posts:
+            meta = post['metadata']
+            slug = meta.get('slug')
+            date = meta.get('date', datetime.now())
+            
+            sitemap += '  <url>\n'
+            sitemap += f'    <loc>{base_url}/posts/{slug}/</loc>\n'
+            sitemap += f'    <lastmod>{date.strftime("%Y-%m-%d")}</lastmod>\n'
+            sitemap += '    <changefreq>monthly</changefreq>\n'
+            sitemap += '    <priority>0.8</priority>\n'
+            sitemap += '  </url>\n'
+        
+        # Tag pages
+        tags = set()
+        for post in posts:
+            tags.update(post['metadata'].get('tags', []))
+        
+        for tag in tags:
+            tag_slug = tag.lower().replace(' ', '-')
+            sitemap += '  <url>\n'
+            sitemap += f'    <loc>{base_url}/tags/{tag_slug}/</loc>\n'
+            sitemap += f'    <lastmod>{datetime.now().strftime("%Y-%m-%d")}</lastmod>\n'
+            sitemap += '    <changefreq>weekly</changefreq>\n'
+            sitemap += '    <priority>0.6</priority>\n'
+            sitemap += '  </url>\n'
+        
+        sitemap += '</urlset>'
+        
+        with open(self.output_dir / 'sitemap.xml', 'w', encoding='utf-8') as f:
+            f.write(sitemap)
+
+    def build_robots_txt(self):
+        """Generate robots.txt"""
+        config = self.load_config()
+        base_url = config.get('url', 'https://yoursite.vercel.app')
+        base_url = base_url.rstrip('/')
+        
+        robots = f'''User-agent: *
+    Allow: /
+
+    Sitemap: {base_url}/sitemap.xml
+    '''
+        
+        with open(self.output_dir / 'robots.txt', 'w', encoding='utf-8') as f:
+            f.write(robots)
+
     def build(self):
         """Build entire site"""
         print("🔨 Building site...")
@@ -223,6 +286,12 @@ class SiteGenerator:
         
         self.build_tag_pages(posts)
         print("✓ Built tag pages")
+
+        self.build_sitemap(posts)           # ADD THIS
+        print("✓ Generated sitemap.xml")    # ADD THIS
+
+        self.build_robots_txt()             # ADD THIS
+        print("✓ Generated robots.txt")     # ADD THIS
         
         print(f"\n✨ Site built successfully! Output: {self.output_dir}")
 

@@ -27,9 +27,9 @@ and contort it into a liquid surface that changes, forms and reforms as you read
 is made of a torrent of cut-up lines—from what seem to have been, at one time, parts of coherent, isolated pieces—pasted together, chattering, interjecting, and constantly 
 colliding in turns dissonantly and harmoniously. He takes language from so many modes and subjects (as seen above, as he takes language I had only seen before in the context
 of differential geometery and analysis on manifolds) and he frequently finds the borders of these subjects, using words and phrases with manifold meanings and using them
-as palimpsests, of a sort, allowing each word to vibrate with possibility and meaning in multiple valences. As the poem continues and the repetitions accrue and things become
-stranger, these words and phrases seem to shake and alight with their resonances. Frequently the beginning of a stanza will lead a reader into thinking he understands what
-the fragment belongs to until a new fragment that starts and trails off at the end of that same stanza that provides another possible meaning for the beginning. 
+as palimpsests, of a sort, allowing each word to vibrate with possibility and meaning in multiple valences. As the poem continues, repetitions accrue and things become
+stranger, these words and phrases seem to shake and alight with their resonances. Frequently, the beginning of a stanza will lead a reader into thinking he understands what
+the fragment belongs to until his eyes meet a new fragment that starts and trails off at the end of that same stanza, providing another possible meaning for the beginning. 
 
 The mean free path is the average distance a particle travels between successive collisions, representing the straight-line path length before a
 change in direction or energy. Lerner adopts this idea with great success, allowing fragments of sentences crash together to create fascinating
@@ -66,6 +66,6 @@ in whose eye Ari stands.
 *Mean Free Path* sprawls out, allowing him to touch on the grief from a friend's suicide, fury with the American (henceforth Stateside(r) out of respect for other American
 countries) military industrial complex. And Doppler Elegy, another poem whose formal constraints are derived from physics (And the only other poem in the collection), deals more
 with Lerner's grief, but is anchored in a similar way by the presence of Lerner's wife. Both poems consider time and memory as a sort of wave, which is not groundbreaking,
-in itself, but the way he forces wave after wave to crash through the reader's mind it's undeniably an affecting and powerful innovation. Fittingly, the first time I read this
+in itself, but the way he crafts wave after wave to send crashing through the reader's mind is undeniably an affecting and powerful innovation. Fittingly, the first time I read this
 I came away somewhat cold, but lines kept calling to me 18 months later, leading me to read it again, and after a re-read I've been in love with it. Here, Ben Lerner rejects cliché
 and writes one of the best poems of the 21st century. 

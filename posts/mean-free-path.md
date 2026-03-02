@@ -6,15 +6,15 @@ description: "on the borderlands of language"
 slug: meanfreepath-reread
 ---
 
-> No concept of clockwise rotation can be
-> Described on the surface continuously
-> So this might take a while. Bring a book
-> Have you tried breaking it into triangles
-> Or changing hands. No, handedness
-> Fascia, a tangent bundle. Can we unfold
-> What we can’t figure? Not without making
-> Cuts. Orient me, for the night is coming
-> Amphichiral, manifold, and looped
+> No concept of clockwise rotation can be  
+> Described on the surface continuously  
+> So this might take a while. Bring a book  
+> Have you tried breaking it into triangles  
+> Or changing hands. No, handedness  
+> Fascia, a tangent bundle. Can we unfold  
+> What we can’t figure? Not without making  
+> Cuts. Orient me, for the night is coming  
+> Amphichiral, manifold, and looped  
 
 There are things we don't tell people because we don't think we can say them, or, more precisely, because we believe our language will fail us, unfurling signs pointing to 
 desiccated referents, leading people to misunderstand us in humiliating ways. Wittgenstein's *Tractatus* would tell us that we should remain silent, but staying silent isn't

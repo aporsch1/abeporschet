@@ -20,6 +20,8 @@ There are things we don't tell people because we don't think we can say them, or
 desiccated referents, leading people to misunderstand us in humiliating ways. Wittgenstein's *Tractatus* would tell us that we should remain silent, but staying silent isn't
 a heartwarming idea either. How do we overcome the failures of language?
 
+## Mean Free Path
+
 Ben Lerner, one of the most interesting poets of the 21st century so far (*and* one of my favorite novelists), has his own solution: to embrace the imprecision of language
 and contort it into a liquid surface that changes, forms and reforms as you read, never crystallizing enough to become misunderstood. The title poem (which I will focus on)
 is made of a torrent of cut-up lines—from what seem to have been, at one time, parts of coherent, isolated pieces—pasted together, chattering, interjecting, and constantly 
@@ -28,6 +30,10 @@ of differential geometery and analysis on manifolds) and he frequently finds the
 as palimpsests, of a sort, allowing each word to vibrate with possibility and meaning in multiple valences. As the poem continues and the repetitions accrue and things become
 stranger, these words and phrases seem to shake and alight with their resonances. Frequently the beginning of a stanza will lead a reader into thinking he understands what
 the fragment belongs to until a new fragment that starts and trails off at the end of that same stanza that provides another possible meaning for the beginning. 
+
+The mean free path is the average distance a particle travels between successive collisions, representing the straight-line path length before a
+change in direction or energy. Lerner adopts this idea with great success, allowing fragments of sentences crash together to create fascinating
+poetic lines.
 
 He uses all these tools to write a love poem, a long one, for his wife, referred to as Ari throughout, but the poem also provides an investigation into the
 possibility of love poems in a postmodern mode, as it unfolds. It is inscrutable at times, but this makes the reader feel privy to a shared language not belonging to him. It's

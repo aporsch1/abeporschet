@@ -27,9 +27,10 @@ and contort it into a liquid surface that changes, forms and reforms as you read
 is made of a torrent of cut-up lines—from what seem to have been, at one time, parts of coherent, isolated pieces—pasted together, chattering, interjecting, and constantly 
 colliding in turns dissonantly and harmoniously. He takes language from so many modes and subjects (as seen above, as he takes language I had only seen before in the context
 of differential geometry and analysis on manifolds) and he frequently finds the borders of these subjects, using words and phrases with manifold meanings and using them
-as palimpsests, of a sort, allowing each word to vibrate with possibility and meaning in multiple valences. As the poem continues, repetitions accrue and things become
-stranger, these words and phrases seem to shake and alight with their resonances. Frequently, the beginning of a stanza will lead a reader into thinking he understands what
-the fragment belongs to until his eyes meet a new fragment that starts and trails off at the end of that same stanza, providing another possible meaning for the beginning. 
+as palimpsests, of a sort, allowing each word to vibrate with possibility and meaning in multiple valences. The poem continues, and as repetitions 
+accrue and things become stranger, these words and phrases seem to shake and alight with their resonances. Frequently, the beginning of a 
+stanza will lead a reader into thinking he understands what the fragment belongs to until his eyes meet a new fragment that starts and trails 
+off at the end of that same stanza, providing another possible meaning for the beginning. 
 
 The mean free path is the average distance a particle travels between successive collisions, representing the straight-line path length before a
 change in direction or energy. Lerner adopts this idea with great success, allowing fragments of sentences crash together to create fascinating

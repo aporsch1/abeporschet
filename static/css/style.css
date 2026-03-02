@@ -1,0 +1,319 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --text-primary: #000000;
+    --text-secondary: #555555;
+    --bg-primary: #ffffff;
+    --link: #0000ee;
+    --link-visited: #551a8b;
+    --border: #cccccc;
+    --code-bg: #f5f5f5;
+    
+    --font-serif: 'Georgia', 'Garamond', 'Times New Roman', serif;
+    --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --font-mono: 'Courier New', 'Courier', monospace;
+}
+
+body {
+    font-family: var(--font-serif);
+    font-size: 20px;
+    line-height: 1.6;
+    color: var(--text-primary);
+    background-color: var(--bg-primary);
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 18px;
+        padding: 2rem 1.5rem;
+    }
+}
+
+/* Links */
+a {
+    color: var(--link);
+    text-decoration: underline;
+}
+
+a:visited {
+    color: var(--link-visited);
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Navigation */
+nav {
+    margin-bottom: 4rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border);
+    font-family: var(--font-sans);
+    font-size: 0.9rem;
+}
+
+nav a {
+    margin-right: 1.5rem;
+    color: var(--text-primary);
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Homepage */
+.site-header {
+    margin-bottom: 4rem;
+}
+
+.site-header h1 {
+    font-size: 2.5rem;
+    font-weight: normal;
+    margin-bottom: 0.5rem;
+}
+
+.site-header p {
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+}
+
+/* Post list */
+.post-list {
+    margin-bottom: 4rem;
+}
+
+.post-list-item {
+    margin-bottom: 2rem;
+}
+
+.post-list-item h2 {
+    font-size: 1.4rem;
+    font-weight: normal;
+    margin-bottom: 0.25rem;
+}
+
+.post-list-item h2 a {
+    color: var(--text-primary);
+    text-decoration: none;
+}
+
+.post-list-item h2 a:hover {
+    text-decoration: underline;
+}
+
+.post-date {
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.5rem;
+}
+
+.post-description {
+    color: var(--text-secondary);
+}
+
+.post-tags {
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-top: 0.25rem;
+}
+
+.post-tags span {
+    margin-right: 0.5rem;
+}
+
+/* Individual post page */
+article.post {
+    margin-bottom: 4rem;
+}
+
+.post-header {
+    margin-bottom: 3rem;
+}
+
+.post-header h1 {
+    font-size: 2.5rem;
+    font-weight: normal;
+    margin-bottom: 0.75rem;
+    line-height: 1.2;
+}
+
+.post-meta {
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.5rem;
+}
+
+/* Post content */
+.post-content {
+    font-size: 1.05rem;
+    line-height: 1.6;
+}
+
+.post-content > * + * {
+    margin-top: 1.5rem;
+}
+
+.post-content h2 {
+    font-size: 1.8rem;
+    font-weight: normal;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+.post-content h3 {
+    font-size: 1.4rem;
+    font-weight: normal;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+}
+
+.post-content h4 {
+    font-size: 1.2rem;
+    font-weight: normal;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.post-content p {
+    margin-bottom: 1.5rem;
+}
+
+.post-content ul,
+.post-content ol {
+    padding-left: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.post-content li {
+    margin-bottom: 0.5rem;
+}
+
+.post-content blockquote {
+    border-left: 3px solid var(--border);
+    padding-left: 1.5rem;
+    margin: 2rem 0;
+    font-style: italic;
+    color: var(--text-secondary);
+}
+
+.post-content hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 3rem 0;
+}
+
+/* Code */
+.post-content code {
+    font-family: var(--font-mono);
+    font-size: 0.9em;
+    background: var(--code-bg);
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+}
+
+.post-content pre {
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    padding: 1rem;
+    overflow-x: auto;
+    margin: 2rem 0;
+    line-height: 1.4;
+}
+
+.post-content pre code {
+    background: none;
+    padding: 0;
+    font-size: 0.85rem;
+}
+
+/* Math */
+.katex {
+    font-size: 1.1em;
+}
+
+.katex-display {
+    margin: 2rem 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+/* Tables */
+.post-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2rem 0;
+    font-family: var(--font-sans);
+    font-size: 0.9rem;
+}
+
+.post-content th,
+.post-content td {
+    padding: 0.5rem;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+}
+
+.post-content th {
+    font-weight: 600;
+}
+
+/* Footer */
+footer {
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--border);
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+}
+
+/* Tag page */
+.tag-page h1 {
+    font-size: 2rem;
+    font-weight: normal;
+    margin-bottom: 2rem;
+}
+
+/* About section on homepage */
+.about-section {
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--border);
+    color: var(--text-secondary);
+}
+
+.about-section h2 {
+    font-size: 1.2rem;
+    font-weight: normal;
+    margin-bottom: 1rem;
+    color: var(--text-primary);
+}
+
+/* Simple drop cap (optional) */
+.post-content > p:first-of-type::first-letter {
+    font-size: 3.5em;
+    line-height: 0.9;
+    float: left;
+    margin: 0.1em 0.1em 0 0;
+}
+
+/* Remove drop cap on shorter posts or when not desired */
+.post-content.no-drop-cap > p:first-of-type::first-letter {
+    font-size: inherit;
+    line-height: inherit;
+    float: none;
+    margin: 0;
+}

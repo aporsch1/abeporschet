@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{site_title}}</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/tags/research/">Research</a>
+        <a href="/tags/books/">Books</a>
+    </nav>
+
+    <header class="site-header">
+        <h1>{{site_title}}</h1>
+        <p>{{site_description}}</p>
+    </header>
+
+    <main>
+        <div class="post-list">
+            {{posts}}
+        </div>
+    </main>
+
+    <footer>
+        <p>{{site_title}}</p>
+    </footer>
+</body>
+</html>

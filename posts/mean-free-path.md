@@ -57,7 +57,7 @@ in whose eye Ari stands.
 >Of lines extending to each leaf  
 >Citable in all its moments: parting, rain”  
 
-*Mean Free Path* sprawls out, allowing him to touch on the grief from a friend's suicide, fury with the American (henceforth Stateside(r) out of respect for the other American
+*Mean Free Path* sprawls out, allowing him to touch on the grief from a friend's suicide, fury with the American (henceforth Stateside(r) out of respect for other American
 countries) military industrial complex. And Doppler Elegy, another poem whose formal constraints are derived from physics (And the only other poem in the collection), deals more
 with Lerner's grief, but is anchored in a similar way by the presence of Lerner's wife. Both poems consider time and memory as a sort of wave, which is not groundbreaking,
 in itself, but the way he forces wave after wave to crash through the reader's mind it's undeniably an affecting and powerful innovation. Fittingly, the first time I read this

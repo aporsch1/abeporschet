@@ -4,7 +4,7 @@ date: 2026-03-05
 tags: books, dickens, nineteenth-century
 description: "on mornings and memory"
 slug: bleak-house-quote  
-  ---
+---
 
 ## Reading Bleak House
 I'm reading *Bleak House*! This is my first Charles Dickens book since I read *A Tale of Two Cities* in tenth grade. I loved it—it was

@@ -6,11 +6,14 @@ description: "the proto-systems novel"
 slug: bleak-house-review  
 ---
 
+##Background
+
 *Bleak House* is a fascinating novel. It feels meandering and plotless while also being a doorstopper around 1000 pages. It feels simultaneously
 seems very progressive and conservative. It's so frequently about abject suffering, repression, poverty, the way systems grow and grow
 and obliterate the very things they are meant to protect, but is consistently one of the funniest novels I've read this year (along with *White
 Noise* by Don Delillo and *Baron Wenckheim's Homecoming* by Krasznahorkai). 
 
+##Flaws
 Before I'm too overwhelming with my praise (all of which is deserved) I feel the need to frontload my main criticism with the novel, which is
 that Esther Summerson as a character, and her voice as a narrator can feel overdetermined and forced in order to serve a point Dickens is trying
 to make as he feuds with the Brönte sisters (particularly Charlotte and her profound creation, Jane Eyre). Esther is written to be the anti-Jane,
@@ -21,6 +24,7 @@ character. All this said, though, I feel that Esther's character is mostly an ac
 time with, and interesting in its unreliability (and Dickens is impressive—and maybe ahead of his time?—with the way he exposes her unreliability
 in order to show the reader more about her character).
 
+##The Characters
 Now that my hedging is out of the way, I have to say that my favorite part of *Bleak House* is the characters. So many of them are loathsome,
 but in such entertaining, brilliant ways. The unbearably dull, stuffy Leicester Dedlock; sinister Mr. Tulkinghorn; the ridiculous philanthropist
 Mrs. Jellyby and her cartoonish, woeful family; the model of deportment himself, Mr. Turveydrop; maybe my favorite side-character, Inspector Bucket,
@@ -36,6 +40,7 @@ in books like *The Recognitions* and *Amerika.* Each of these characters is writ
 sentences to tell nearly everything about a character. The stage is always set perfectly, and then, as details accrue and the picture is fille in,
 the characters and situations only get richer and more interesting. 
 
+## Other Assorted Positives
 His writing is an example of some of the most sumptuous I've read from the 19th century, while his third person sections are also, unlike many of his contemporaries, or
 even unlike himself in some of his other novels, frequently totally taken with the ridiculous and inscrutable nature of large social systems, and less concerned
 with more stable, grounded human relationships (though this is balanced out with Esther to make an interesting
@@ -48,6 +53,7 @@ out of things to say without just spewing superlatives, but I really want to hig
 on Shakespeare and little details of social and historical interest, some hilarious physical comedy (I loved the sections with the elderly Smallweeds),
 comedies of manners, and scathing sarcasm. Dickens finds so many ways to laugh and he's equally successful at all of them.
 
+##TLDR
 A massive and beautiful novel that everyone should read, despite some of the dated takes on sexual politics, and the role of women.
 
 

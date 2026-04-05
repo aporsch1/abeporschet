@@ -34,5 +34,5 @@ our memory, plays a role in clearing the fog incurred by our lack of immediate c
 objects that ha[ve] been around [us] in [our] sleep". It's also a reminder of the subjectivity of memory, and how it's driven by whims and drives
 which we can only begin to understand. That's why it's so important (and interesting) to examine our epistemic limitations through alternate
 modes of understanding things, whether they be narrative explorations (like *Bleak House* or perhaps more fittingly something like *The Sound and
-the Fury*—reread soon, by the way) or more structured scientific analysis, using things like statistics. He really writes at a level almost 
-nobody else can meet, on the sentence level. Gorgeous.
+the Fury*—reread soon, by the way) or more structured scientific analysis, using things like statistics. He really writes, on the level of the 
+sentence, at a quality nearly nobody can match. Gorgeous.

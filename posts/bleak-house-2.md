@@ -1,4 +1,4 @@
- ---                                                                                        
+---                                                                                        
 title: "Thoughts on Bleak House"    
 date: 2026-04-05           
 tags: books, dickens, nineteenth-century

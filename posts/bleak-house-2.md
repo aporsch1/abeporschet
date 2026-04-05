@@ -8,7 +8,7 @@ slug: bleak-house-review
 
 ##Background
 
-*Bleak House* is a fascinating novel. It feels meandering and plotless while also being a doorstopper around 1000 pages. It feels simultaneously
+*Bleak House* is a fascinating novel. It feels meandering and plotless while also being a doorstopper around 1000 pages. It simultaneously
 seems very progressive and conservative. It's so frequently about abject suffering, repression, poverty, the way systems grow and grow
 and obliterate the very things they are meant to protect, but is consistently one of the funniest novels I've read this year (along with *White
 Noise* by Don Delillo and *Baron Wenckheim's Homecoming* by Krasznahorkai). 

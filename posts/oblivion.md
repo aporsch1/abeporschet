@@ -1,6 +1,6 @@
 ---
 title:"Oblivion"
-date: 04-05-2026
+date: 2026-04-05
 tags: David-Foster-Wallace, short-stories, twenty-first-century, books
 description: "lonely? yes."
 slug: oblivion
